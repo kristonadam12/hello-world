@@ -2,3 +2,4 @@
 - alma
 - körte
 - barack
+~~ ~~ valami
