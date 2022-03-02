@@ -2,4 +2,6 @@
 - alma
 - körte
 - barack
-
+~~áthúzott~~
+***dőlt***
+**félkövér**
